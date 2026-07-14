@@ -1,11 +1,8 @@
 # Preview and Live links
 
-Preview
-https://main--da-block-collection--vlab19-us.aem.page/
+Preview: https://main--da-block-collection--vlab19-us.aem.page/
 
-Live
-
-https://main--da-block-collection--vlab19-us.aem.page/
+Live: https://main--da-block-collection--vlab19-us.aem.page/
 
 
 # AEM Block Collection
